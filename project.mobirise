@@ -35,7 +35,11 @@
     "versionPublish": "4.9.1",
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "undefined"
+    "siteUrl": "https://lukiemuffin.github.io/website/",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
