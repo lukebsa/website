@@ -34,7 +34,8 @@
     "uniqCompNum": 3,
     "versionPublish": "4.9.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -561,10 +562,10 @@
         }
       ]
     },
-    "page1.html": {
+    "about.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "about",
+        "meta_descr": "",
+        "title": "About This Site",
         "order": 1
       },
       "components": [
