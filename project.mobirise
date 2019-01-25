@@ -1903,15 +1903,6 @@
           "_once": false,
           "_params": {},
           "_anchor": "features2-f"
-        },
-        {
-          "_params": {},
-          "alias": "deltapiblockeditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapiblockeditor",
-          "_anchor": "deltapiblockeditor-h"
         }
       ]
     }
