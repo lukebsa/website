@@ -3146,9 +3146,14 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rgntQzk3J8 {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
 .cid-rgnssxLS2r {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rgnssxLS2r .mbr-section-subtitle {
