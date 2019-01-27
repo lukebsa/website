@@ -2240,6 +2240,104 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rgnqZhq4oM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rgnqZhq4oM P {
+  color: #767676;
+}
+.cid-rgnrEzu31x {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rgnrEzu31x h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rgnrEzu31x p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rgnrEzu31x .card-box {
+  padding-top: 2rem;
+}
+.cid-rgnrEzu31x .card-wrapper {
+  height: 100%;
+}
+.cid-rgnrsYC70c {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-rgnrsYC70c .content {
+    text-align: center;
+  }
+  .cid-rgnrsYC70c .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rgnrsYC70c .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rgnrsYC70c .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rgnrsYC70c .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rgnrsYC70c .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rgnrsYC70c .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rgnrsYC70c .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-rgnrsYC70c .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rgnrsYC70c .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rgnrsYC70c .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rgnrsYC70c .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rgnrsYC70c .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-rgnrsYC70c P {
+  text-align: left;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
