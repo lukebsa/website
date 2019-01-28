@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "4.9.1",
     "favicon": "",
     "noImageResize": "",
@@ -3150,9 +3150,9 @@
         },
         {
           "_params": {
-            "blockTitle": "<h3>Block Title</h3>",
-            "HTMLCode": "<h1>HTML Code</h1>",
-            "extEdit": true,
+            "blockTitle": "",
+            "HTMLCode": "<script language=\"JavaScript\" type=\"text/javascript\">\n<!--\n    // Customize the widget by editing the fields below\n    // All fields are required\n\n    // Your Feedity RSS feed URL\n    feedity_widget_feed = \"https://feedity.com/web-site/feed.rss\";\n\n    // Number of items to display in the widget\n    feedity_widget_numberofitems = \"5\";\n\n    // Show feed item description (values: yes or no)\n    feedity_widget_showdescription = \"no\";\n\n    // Show feed item published date (values: yes or no)\n    feedity_widget_showdate = \"no\";\n\n    // Widget box width (in px, pt, em, or %)\n    feedity_widget_width = \"250px\";\n\n    // Widget box background color in hex or by name (eg: #ffffff or white)\n    feedity_widget_backcolor = \"#ffffff\";\n\n    // Widget text & link color in hex or by name (eg: #000000 or black)\n    feedity_widget_fontcolor = \"#000000\";\n//-->\n</script>\n<script language=\"JavaScript\" type=\"text/javascript\" src=\"https://feedity.com/js/widget.js\"></script>",
+            "extEdit": false,
             "paddingTop": 20,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -3163,15 +3163,15 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "blockTitle": "<h3>Block Title</h3>",
-          "HTMLCode": "<h1>HTML Code</h1>",
+          "blockTitle": "",
+          "HTMLCode": "<script language=\"JavaScript\" type=\"text/javascript\">\n<!--\n    // Customize the widget by editing the fields below\n    // All fields are required\n\n    // Your Feedity RSS feed URL\n    feedity_widget_feed = \"https://feedity.com/web-site/feed.rss\";\n\n    // Number of items to display in the widget\n    feedity_widget_numberofitems = \"5\";\n\n    // Show feed item description (values: yes or no)\n    feedity_widget_showdescription = \"no\";\n\n    // Show feed item published date (values: yes or no)\n    feedity_widget_showdate = \"no\";\n\n    // Widget box width (in px, pt, em, or %)\n    feedity_widget_width = \"250px\";\n\n    // Widget box background color in hex or by name (eg: #ffffff or white)\n    feedity_widget_backcolor = \"#ffffff\";\n\n    // Widget text & link color in hex or by name (eg: #000000 or black)\n    feedity_widget_fontcolor = \"#000000\";\n//-->\n</script>\n<script language=\"JavaScript\" type=\"text/javascript\" src=\"https://feedity.com/js/widget.js\"></script>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
             "Extension"
           ],
           "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-i"
+          "_anchor": "htmlblock-block-k"
         }
       ]
     }
